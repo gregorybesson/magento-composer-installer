@@ -32,7 +32,7 @@ voting:
 * brenbl(-)
 * SchumacherFM(+)
 * pbrouwers (-)
-*
+* gregorybesson (+) if separate project with specific solutions for M1
 
 ### Solution 2
 
@@ -55,6 +55,7 @@ voting:
 * brenbl (-)
 * SchumacherFM (-)
 * pbrouwers (+)
+* gregorybesson (+)
 *
 
 ### Solution 3
@@ -93,7 +94,7 @@ voting:
 * vinai (+)
 * ajbonner (-) 
 * brenbl (+)
-*
+* gregorybesson (-)
 
 
 
